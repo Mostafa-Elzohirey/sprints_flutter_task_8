@@ -16,3 +16,8 @@ both screens contain:\
 every time the counter reaches  a number that is divisible by 5 (except 0)it displays a snackbar that says that the number is divisible by 5
 
 
+packages used
+[flutter bloc](https://pub.dev/packages/flutter_bloc)
+[awesome snackbar content](https://pub.dev/packages/awesome_snackbar_content)
+
+
