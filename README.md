@@ -8,7 +8,7 @@ the project consists of one screen implemented in two ways
 both screens contain:\
 1. an app bar that has a switch for the theme (another bloc was used for theme change)
 2. a text in the center that displays the counter 
-3. three floating action buttons:\
+3. three floating action buttons:
     * reset button which resets the counter to 0
     * increment button which increases the counter by 1
     * decrement button which decrease the counter by 1
