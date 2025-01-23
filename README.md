@@ -2,8 +2,8 @@
 Dealing with different Types of Blocs.
 
 the project consists of one screen implemented in two ways
-1. [using separate BLoC builders and listeners]()
-2. [using a bloc consumer]()
+1. [using separate BLoC builders and listeners](https://github.com/Mostafa-Elzohirey/sprints_flutter_task_8/blob/master/lib/counter_screen.dart)
+2. [using a bloc consumer](https://github.com/Mostafa-Elzohirey/sprints_flutter_task_8/blob/master/lib/counter_screen_consumer.dart)
 
 both screens contain:\
 1. an app bar that has a switch for the theme (another bloc was used for theme change)
